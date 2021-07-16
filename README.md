@@ -10,7 +10,7 @@ Projeto Web services com SpringBoot e JPA / Hibernate
 
 2-JPA repository, injeção de dependência, camada de serviço, registro de componentes e Entidade Pedido com Datas com Instant do java 11 e padrão ISO 8601
 
-3-Criaçã de Enum OrderStatus, Entidade Category e Entidade Product. 
+3-Criação de Enum OrderStatus, Entidade Category e Entidade Product. 
 
 4- Associação de muitos-para-muitos com JoinTable, Entidade Payment e associação de um-para-um
 
