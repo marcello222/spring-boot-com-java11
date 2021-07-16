@@ -18,7 +18,7 @@ Projeto Web services com SpringBoot e JPA / Hibernate
 
 6-Criação de app Heroku e provisionamento com banco PostgreSQL
 
-7-Deply do sistema no Heroku
+7-Deploy do sistema no Heroku
 
 
 
